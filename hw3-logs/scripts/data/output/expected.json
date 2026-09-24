@@ -1,0 +1,30 @@
+{
+  "Files": [
+    "/Users/oksanavalenko/Programming/GO/labs/hw3/hw3-logs/scripts/data/input/logs/part1.txt",
+    "/Users/oksanavalenko/Programming/GO/labs/hw3/hw3-logs/scripts/data/input/logs/part2.txt"
+  ],
+  "TotalRequestsCount": 256,
+  "ResponseSizeInBytes": {
+    "Average": 206.046875,
+    "Max": 3318,
+    "P95": 418
+  },
+  "Resources": [
+    {
+      "Resource": "/downloads/product_1",
+      "TotalRequestsCount": 145
+    },
+    {
+      "Resource": "/downloads/product_2",
+      "TotalRequestsCount": 111
+    }
+  ],
+  "ResponseCodesInfo": [],
+  "RequestsPerDate": [],
+  "UniqueProtocols": [
+    "HTTP/1.0",
+    "grpc",
+    "HTTP/1.1",
+    "HTTP/2.1"
+  ]
+}

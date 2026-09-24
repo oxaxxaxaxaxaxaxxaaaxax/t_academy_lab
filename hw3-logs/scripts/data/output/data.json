@@ -1,0 +1,13 @@
+{
+	"Files": null,
+	"TotalRequestsCount": 0,
+	"ResponseSizeInBytes": {
+		"Average": 0,
+		"Max": 0,
+		"P95": 0
+	},
+	"Resources": null,
+	"ResponseCodesInfo": null,
+	"RequestsPerDate": null,
+	"UniqueProtocols": null
+}
