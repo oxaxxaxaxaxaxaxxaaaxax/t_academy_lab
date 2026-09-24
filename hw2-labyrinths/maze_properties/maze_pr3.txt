@@ -1,0 +1,6 @@
+width=2
+height=2
+start=0,0
+goal=1,1
+pass=' '
+maze_filename=maze3.txt

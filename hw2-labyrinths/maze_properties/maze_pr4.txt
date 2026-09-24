@@ -1,0 +1,8 @@
+width=1
+height=1
+start=0,0
+goal=0,0
+pass=' '
+sand=░
+coin=¤
+maze_filename=maze5.txt

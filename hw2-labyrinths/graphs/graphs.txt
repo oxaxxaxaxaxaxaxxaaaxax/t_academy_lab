@@ -1,0 +1,15 @@
+{
+  "Height": 1,
+  "Width": 1,
+  "Graph": [
+    [
+      {
+        "Row": 0,
+        "Col": 0,
+        "Walls": 15,
+        "IsVisited": false,
+        "Weight": 2
+      }
+    ]
+  ]
+}

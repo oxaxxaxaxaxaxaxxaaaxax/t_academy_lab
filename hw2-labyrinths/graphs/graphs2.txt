@@ -1,0 +1,38 @@
+{
+  "Height": 2,
+  "Width": 2,
+  "Graph": [
+    [
+      {
+        "Row": 0,
+        "Col": 0,
+        "Walls": 13,
+        "IsVisited": false,
+        "Weight": 2
+      },
+      {
+        "Row": 0,
+        "Col": 1,
+        "Walls": 13,
+        "IsVisited": false,
+        "Weight": 2
+      }
+    ],
+    [
+      {
+        "Row": 1,
+        "Col": 0,
+        "Walls": 6,
+        "IsVisited": false,
+        "Weight": 2
+      },
+      {
+        "Row": 1,
+        "Col": 1,
+        "Walls": 3,
+        "IsVisited": false,
+        "Weight": 2
+      }
+    ]
+  ]
+}
