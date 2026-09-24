@@ -1,0 +1,26 @@
+{
+  "size": {
+    "width": 1920,
+    "height": 1080
+  },
+  "iteration_count": 300000,
+  "output_path": "heart_config.png",
+  "threads": 4,
+  "seed": 77,
+  "functions": [
+    {
+      "name": "heart",
+      "weight": 0.7
+    }
+  ],
+  "affine_params": [
+    {
+      "a": 0.5,
+      "b": 1.0,
+      "c": 1.0,
+      "d": 1.0,
+      "e": 1.0,
+      "f": 1.0
+    }
+  ]
+}

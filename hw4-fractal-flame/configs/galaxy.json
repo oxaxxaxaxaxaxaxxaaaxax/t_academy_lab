@@ -1,0 +1,16 @@
+{
+  "size": { "width": 1920, "height": 1080 },
+  "iteration_count": 600000,
+  "output_path": "galaxy.png",
+  "threads": 4,
+  "seed": 7,
+  "functions": [
+    { "name": "linear", "weight": 0.2 },
+    { "name": "swirl", "weight": 1.0 },
+    { "name": "cosine", "weight": 0.4 }
+  ],
+  "affine_params": [
+    { "a": 0.6, "b": -0.3, "c": 0, "d": 0.3, "e": 0.6, "f": 0 },
+    { "a": 0.6, "b": 0.3, "c": 0, "d": -0.3, "e": 0.6, "f": 0 }
+  ]
+}

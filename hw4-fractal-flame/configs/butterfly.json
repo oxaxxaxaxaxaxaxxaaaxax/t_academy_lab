@@ -1,0 +1,17 @@
+{
+  "size": { "width": 1920, "height": 1080 },
+  "iteration_count": 500000,
+  "output_path": "butterfly.png",
+  "threads": 4,
+  "seed": 5,
+  "functions": [
+    { "name": "linear", "weight": 0.3 },
+    { "name": "swirl", "weight": 0.8 },
+    { "name": "horseshoe", "weight": 0.6 }
+  ],
+  "affine_params": [
+    { "a": 0.5, "b": 0, "c": 0, "d": 0, "e": 0.5, "f": 0 },
+    { "a": 0.5, "b": 0, "c": 0.5, "d": 0, "e": 0.5, "f": 0 },
+    { "a": 0.5, "b": 0, "c": -0.5, "d": 0, "e": 0.5, "f": 0 }
+  ]
+}
